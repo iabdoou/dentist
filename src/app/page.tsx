@@ -23,7 +23,7 @@ export default function Home() {
         <NewPatientOffer />
         <ContactFooter />
       </main>
-      <MobileBottomNav />
+      
     </>
   );
 }
